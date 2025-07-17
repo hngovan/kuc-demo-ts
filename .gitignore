@@ -1,0 +1,11 @@
+# Directory for build output
+dist
+
+# Node dependencies
+node_modules
+
+# Local env files
+.env
+.env.*
+!.env.example
+.history

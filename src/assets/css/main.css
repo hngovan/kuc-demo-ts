@@ -1,0 +1,11 @@
+#kuc-searchbox-readonly-table {
+  --kuc-readonly-table-header-0-width: 40px;
+  --kuc-readonly-table-header-1-width: 160px;
+  --kuc-readonly-table-header-2-width: 80px;
+}
+
+#kuc-searchbox-text {
+  --kuc-text-input-height: 48px;
+  --kuc-text-input-margin-right: 8px;
+  margin-right: var(--kuc-text-input-margin-right);
+}
